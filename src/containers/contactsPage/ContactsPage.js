@@ -43,7 +43,7 @@ export const ContactsPage = ({ contacts, addContact }) => {
           phone={phone}
           setPhone={setPhone}
           email={email}
-          setEmail={setEmailq}
+          setEmail={setEmail}
           onSubmit={handleSubmit} />
       </section>
       <hr />
